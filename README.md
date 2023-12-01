@@ -6,7 +6,8 @@ This project is part of a coding challenge where the task was to implement a Jav
 
 ## Requerimentos
 
-Estar dentro da pasta do projeto, e manter o arquivo Readme.md fora da pasta <code>./services</code>
+- Necessário ter instalado node
+- Estar dentro da pasta do projeto, e manter o arquivo Readme.md fora da pasta <code>./services</code>
 
 ## Teste
 
